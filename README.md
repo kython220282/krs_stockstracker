@@ -1,4 +1,4 @@
-# 📦 Stock Analysis Application 
+# 📈 Stock Analysis Application 
 
 Application is created to do cursory stock aalysis
 
